@@ -1,0 +1,114 @@
+#Wrapper{
+    width:1200px;
+    /* height: 1080px; */
+    border:1px solid gray;
+    background-color: brown;
+    
+    /* background-size:100px; */
+    
+    
+}
+#topnav{display:inline-block;
+    vertical-align: top;
+    background-color:gainsboro;
+    height:70px;
+    width: 1200px;
+    border:1px solid;
+    }
+.h2{
+    display:inline-block;
+    text-align:center;
+    margin-left:550px;
+
+}
+#topnav h1{
+    display:inline-block;
+    text-align:right;
+}
+.firstsection{
+    width: 1200px;
+    border:1px solid;
+    background-color: brown;
+    
+
+}
+.sqimg{
+    display:inline-block;
+    border: 1px solid gray;
+    /* width:500px; */
+    /* height: 300px; */
+    margin-left: 10px;
+    background-color:grey;
+}
+.sq2{
+    display: inline-block;
+    border:1px solid grey;
+    width: 650px;
+    height: 300px;
+    margin-left: 20px;
+    vertical-align: top;
+    background-color: gainsboro;
+
+}
+.pagebody{
+    width: 1200px;
+    
+    border: 1px solid grey;
+    /* background-color: beige; */
+
+
+}
+
+.boxes{ 
+    display: inline-block;
+    border: 1px solid grey;
+    background-color:white;
+    /* height: 550px; */
+    width: 360px;
+    margin:10px;
+}
+
+
+h1 {
+    margin: 0px;
+}    
+        
+
+.img1{
+    width: 500px;
+    height: 300px;
+
+}
+.he{ 
+    font-size:20px;
+    color:white;
+    
+}
+.header{
+    height: 40x;
+    width:650px;
+    border: 1px solid grey;
+    background-color:grey;
+}
+.littleheader{
+    height: 50px;
+    background-color:grey;
+    color: white;
+    
+    
+    
+
+}
+.img{
+    width: 360px;
+
+}
+.logo{
+    display: inline-block;
+    width:50px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+p{
+    font-size: 25px;
+}
